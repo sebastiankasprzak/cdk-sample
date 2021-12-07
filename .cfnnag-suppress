@@ -1,0 +1,3 @@
+RulesToSuppress:
+- id: W92
+  reason: We are happy with not using reserved concurrency
